@@ -1,4 +1,4 @@
-## Prazer, sou o Natan! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" alt="bandeira do brasil" length= "25" width="25"/>
+## ➡️ Prazer, sou o Natan! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" alt="bandeira do brasil" length= "25" width="25"/>
 
 <!--
 **natandepes/natandepes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +23,10 @@ com as aulas, tenho constantemente praticado linguagens de programação e apren
 , mesmo que eu não goste daquilo que estou vendo, corro muito atrás, gosto de fazer tudo bem feito. Durante meu período acadêmico sempre fui muito 
 participativo e estive em várias olimpíadas acadêmicas, tendo me destacado nas de exatas.
 
-📖  Tenho estudado muito com o objetivo de me desenvolver na área de TI e procuro logo estar focado em um ramo determinado. Estou gostando bastante da
+📚  Tenho estudado muito com o objetivo de me desenvolver na área de TI e procuro logo estar focado em um ramo determinado. Estou gostando bastante da
 parte de Back-End.
 
-## Tecnologias que estou tendo constante contato 💡
+## ➡️ Tecnologias que estou tendo constante contato 💡
  - HTML
  - CSS
  - JavaScript
@@ -34,7 +34,7 @@ parte de Back-End.
  - PostgreSQL
  - Visual Studio 
  - Replit
- #### Tecnologias que estou amando 💓
+ #### ➡️ Tecnologias que estou amando 💓
  - Visual Studio Code
  - SQL
  - C#
