@@ -32,7 +32,6 @@ parte de Back-End.
  - JavaScript
  - MySQL
  - PostgreSQL
- - Visual Studio 
  - Replit
  #### ➡️ Tecnologias que estou amando 💓
  - Visual Studio Code
