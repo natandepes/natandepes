@@ -30,10 +30,9 @@ parte de Back-End.
  - HTML
  - CSS
  - JavaScript
+ - SQL 💓
  - MySQL
  - PostgreSQL
+ - Visual Studio Code 💓
+ - C# 💓
  - Replit
- #### ➡️ Tecnologias que estou amando 💓
- - Visual Studio Code
- - SQL
- - C#
