@@ -1,4 +1,4 @@
-## ➡️ Prazer, sou o Natan! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" alt="bandeira do brasil" length= "25" width="25"/>
+## ➡️ Prazer, sou o Natan! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" alt="bandeira do brasil" length= "20" width="25"/>
 
 <!--
 **natandepes/natandepes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
