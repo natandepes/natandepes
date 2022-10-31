@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 🔭 As for now I'm really liking Back-End programming, but still keeping a very open mind to every new oportunity.
 
+📫 How to reach me: https://www.linkedin.com/in/natan-depes
+
 <div align="center">
   <a href="https://github.com/natandepes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natandepes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
