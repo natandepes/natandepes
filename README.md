@@ -1,4 +1,4 @@
-## ➡️ Prazer, sou o Natan! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" alt="bandeira do brasil" length= "20" width="25"/>
+## Greetings, nice to see you here! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1024px-Flag_of_Brazil.svg.png" alt="bandeira do brasil" length= "20" width="25"/>
 
 <!--
 **natandepes/natandepes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,24 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋  Adentrei recentemente no setor de TI, porém desde muito criança tive contato constante com computadores, e em 2021 decidi que queria aprender algo sobre 
-programação antes de ingressar em minha graduação, então estudei e adquiri um conhecimento iniciante-intermediário sobre C#. Agora na faculdade, 
-com as aulas, tenho constantemente praticado linguagens de programação e aprendendo sobre o mercado.
 
-⚡  Eu sou uma pessoa muito ambiciosa e muito interessada, sempre busco extrair o máximo de conhecimento que um assunto ou experiência pode me oferecer
-, mesmo que eu não goste daquilo que estou vendo, corro muito atrás, gosto de fazer tudo bem feito. Durante meu período acadêmico sempre fui muito 
-participativo e estive em várias olimpíadas acadêmicas, tendo me destacado nas de exatas.
 
-📚  Tenho estudado muito com o objetivo de me desenvolver na área de TI e procuro logo estar focado em um ramo determinado. Estou gostando bastante da
-parte de Back-End.
+🌱Currently graduating, entered recently in this market.
 
-## ➡️ Tecnologias que estou tendo constante contato 💡
+📚 I am studying and wokring hard aiming to develop myself into the IT area and soon be focused in a more determinated branch. 
+
+🔭 As for now I'm really liking Back-End programming, but still with a very open mind to every new oportunity I see.
+
+<div align="center">
+  <a href="https://github.com/natandepes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natandepes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natandepes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## 💡 Technologies I am studying/working with
  - HTML
  - CSS
  - JavaScript
+ - Python
  - SQL 💓
- - MySQL
- - PostgreSQL
- - Visual Studio Code 💓
  - C# 💓
- - Replit
+ - Angular
