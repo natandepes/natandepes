@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📚 I am studying and wokring hard aiming to develop myself into the IT area and soon be focused in a more determinated branch. 
 
-🔭 As for now I'm really liking Back-End programming, but still with a very open mind to every new oportunity I see.
+🔭 As for now I'm really liking Back-End programming, but still keeping a very open mind to every new oportunity I see.
 
 <div align="center">
   <a href="https://github.com/natandepes">
